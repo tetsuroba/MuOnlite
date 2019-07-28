@@ -1,5 +1,5 @@
 # MuOnlite
-A simple dungeon crawler game project, with items/levels/difficulties. (Hungarian)
+A simple dungeon crawler game project for school, with items/levels/difficulties. (Hungarian)
 
 # Description
 The game utilizes Java Swing.
